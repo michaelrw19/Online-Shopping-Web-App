@@ -1,0 +1,70 @@
+.background {
+    background-color: #b2edc2;
+}
+
+h3,
+h4,
+h5,
+h6 {
+    text-align: center;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    margin: 0 20px 0 20px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card img {
+    border-radius: 5px 5px 0 0;
+    padding-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.card_container {
+    padding: 5px 16px;
+    text-align: center;
+    float: right;
+}
+
+.registration {
+    text-align: left;
+}
+
+.shopping_item {
+    font-size: large;
+    margin: 0;
+}
+
+#shopping_cart {
+    height: 100%;
+    border: 1px solid lightgray;
+    background-color: white;
+    position: relative;
+    text-align: center;
+    overflow: auto;
+    padding-bottom: 10px;
+}
+
+#shopping_icon {
+    width: 50%;
+    mix-blend-mode: multiply;
+}
+
+#delivery_icon {
+    width: 60%;
+    margin: 10px 0 5px 0;
+}
+
+#firesale_icon{
+    width:45%;
+    margin: 10px 0 5px 0;
+}
