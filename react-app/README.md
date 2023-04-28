@@ -1,9 +1,4 @@
-Team 37
-- Jenny Su, 500962385
-- Tiffany Tran, 500886609
-- Kevin Tran, 500967982
-- Michael Widianto, 501033366
-
+Made by: Jenny Su, Tiffany Tran, Kevin Tran, and Michael Widianto
 
 Before running this application:
 - open a terminal and run the 'npm install' command inside the react-app folder
@@ -11,6 +6,7 @@ Before running this application:
   the following line inside the .env.local file: REACT_APP_GOOGLE_MAPS_API_KEY=AIzaSyCLherBXiXAewyPuGAs-5Hs47p0-_D7VcQ
 - in react-app/php/dbConnection.php, change the connection settings to your own 
   settings (e.g. your hostname, password, etc)
+
 
 Steps for running this application:
 - open XAMPP and start Apache and MySQL
